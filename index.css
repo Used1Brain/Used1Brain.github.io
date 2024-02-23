@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.nav {
+    text-align: center;
+    margin: 20px;
+}
