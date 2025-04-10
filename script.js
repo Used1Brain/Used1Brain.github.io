@@ -6,9 +6,10 @@ quotes = [
     "Why was 7 afraid of 8? Because 8 9 10.",
     "We have narrowed the phrase \"same time last week\" as being invented after a week.",
     "I've figured out how to have my fork and eat my cake too.",
-    "mfw Dijkstra algorithm removed ⅔ the edges of my family tree",
+    "mfw Dijkstra algorithm removed ⅔ the edges of my family tree ¯o¯",
     "The word \"is\", painted on the wall, with the tail of the 's' being connected to the penstroke of an anthropomorphic representation of the word \"the\".",
     "Tornado watch? I suppose it does rotate.",
-    "Not unplugging your microwave before bed is a lot like walking around the park without a condom on."
+    "High school bullies becoming mathematicians after learning about the wedge product.",
+    "What is an onion, but just an onion with another layer?"
 ];
 quote.innerHTML = quotes[Math.floor(Math.random()*quotes.length)];
