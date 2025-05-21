@@ -10,6 +10,7 @@ quotes = [
     "The word \"is\", painted on the wall, with the tail of the 's' being connected to the penstroke of an anthropomorphic representation of the word \"the\".",
     "Tornado watch? I suppose it does rotate.",
     "High school bullies becoming mathematicians after learning about the wedge product.",
-    "What is an onion, but just an onion with another layer?"
+    "What is an onion, but just an onion with another layer?",
+    "The sums may be absolutely convergent, but I am absolutely divergent from the women."
 ];
 quote.innerHTML = quotes[Math.floor(Math.random()*quotes.length)];
